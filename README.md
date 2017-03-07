@@ -7,6 +7,11 @@ Getting &amp; Cleaning Data, Lecture 4 Project
 - Script tested on MAC OS Sierra, but platform independent file.path() has been used for convenience
 - If data is not present in Working directory, script downloads it from source & unzips
 
+## About Other Files
+- Original Data Dictionaries included in "UCI HAR Dataset folder". Note this does NOT contain data
+- Tidy_UCI_Dataset.txt : Until step 4 of assignment
+- Summary_UCI_Dataset.txt : Calculates mean measures on above Tidy data
+
 ## About Data
 Please refer CodeBook.md
 
